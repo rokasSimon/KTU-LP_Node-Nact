@@ -1,0 +1,27 @@
+                      Password              Passes                Salt                                              Hash
+------------------------------------------------------------------------------------------------------------------------
+                    0123456789               10000               6.456                        MDEyMzQ1Njc4OTEwMDA2LjQ1Ng
+                        0admin               10000               7.652                              MGFkbWluMTAwMDcuNjUy
+                      password               15000               645.2                              cGFzc3dvcmQxNTY0NS4y
+                      password               10000               422.1                              cGFzc3dvcmQxMDQyMi4x
+                      password               15000            6.954543                       cGFzc3dvcmQxNTAwNi45NTQ1NDM
+                        0admin               10000               2.242                              MGFkbWluMTAwMDIuMjQy
+                        0admin               15000          8.12511521                       MGFkbWluMTUwMDguMTI1MTE1MjE
+                         rokas               10000          7.55256812                        cm9rYXMxMDAwNy41NTI1NjgxMg
+                       8spurga               15000             1.25412                          OHNwdXJnYTE1MDAxLjI1NDEy
+                        442069               10000               78.52                               NDQyMDY5MTAwNzguNTI
+                        769420               15000                 206                                   NzY5NDIwMTUyMDY
+                      2gnjlkav               15000            2.351541                       MmduamxrYXYxNTAwMi4zNTE1NDE
+                   5gaohklfnma               15000              9.8522                      NWdhb2hrbGZubWExNTAwOS44NTIy
+                  04552blnka12               10000       2.38745841254           MDQ1NTJibG5rYTEyMTAwMDIuMzg3NDU4NDEyNTQ
+                   5sj52av52av               10000              3.2541                      NXNqNTJhdjUyYXYxMDAwMy4yNTQx
+                   6a5252gav10               15000             9.85252                    NmE1MjUyZ2F2MTAxNTAwOS44NTI1Mg
+                      6jnflkam               10000                 6.9                              NmpuZmxrYW0xMDAwNi45
+                      5oirqjpk               15000              9.8452                          NW9pcnFqcGsxNTAwOS44NDUy
+                  56gasv4641fa               10000             98.2152                    NTZnYXN2NDY0MWZhMTAwOTguMjE1Mg
+                    5vab5b63as               15000                 6.9                           NXZhYjViNjNhczE1MDA2Ljk
+                  70ga3v1a6513               10000            3.594156                  NzBnYTN2MWE2NTEzMTAwMDMuNTk0MTU2
+                    83fa4851fa               15000            79.95623                      ODNmYTQ4NTFmYTE1MDc5Ljk1NjIz
+                        461613               15000             68749.1                                NDYxNjEzODM3NDkuMQ
+                     51vav12va               20000              952.13                           NTF2YXYxMnZhMjA5NTIuMTM
+                7finalPassword               20000           6985.2353                  N2ZpbmFsUGFzc3dvcmQyNjk4NS4yMzUz

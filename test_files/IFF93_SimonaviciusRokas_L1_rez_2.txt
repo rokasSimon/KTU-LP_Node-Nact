@@ -1,0 +1,17 @@
+                      Password              Passes                Salt                                              Hash
+------------------------------------------------------------------------------------------------------------------------
+                        admin2               20000           6.9695335                        YWRtaW4yMjAwMDYuOTY5NTMzNQ
+                     password2               20000            6.900665                      cGFzc3dvcmQyMjAwMDYuOTAwNjY1
+                     password2               20000           65452.221               cGFzc3dvcmQyODU0NTIuMjIwOTk5OTk5OTk
+                        admin2               20000         2.374587415                      YWRtaW4yMjAwMDIuMzc0NTg3NDE1
+                        rokas2               20000          7.55256812                       cm9rYXMyMjAwMDcuNTUyNTY4MTI
+                        420692               10000               78.52                               NDIwNjkyMTAwNzguNTI
+                        694202               15000                 206                                   Njk0MjAyMTUyMDY
+                      gnjlkav2               15000            2.351541                       Z25qbGthdjIxNTAwMi4zNTE1NDE
+                   gaohklfnma2               15000              9.8522                      Z2FvaGtsZm5tYTIxNTAwOS44NTIy
+                  gsj52av52av2               10000              3.2541                    Z3NqNTJhdjUyYXYyMTAwMDMuMjU0MQ
+                      jnflkam2               10000                 6.9                              am5mbGthbTIxMDAwNi45
+                 56gasv4641fa2               10000             98.2152                   NTZnYXN2NDY0MWZhMjEwMDk4LjIxNTI
+                    16ga3yr132               10000            3.594156                    MTZnYTN5cjEzMjEwMDAzLjU5NDE1Ng
+                      4616fsf2               10000             68749.1                              NDYxNmZzZjI3ODc0OS4x
+                    51vadhgsa2               10000              952.13                          NTF2YWRoZ3NhMjEwOTUyLjEz

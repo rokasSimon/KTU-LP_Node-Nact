@@ -1,0 +1,127 @@
+[
+  {
+    "password": "�651254153",
+    "passes": 500,
+    "salt": 3.14
+  },
+  {
+    "password": "�admin3",
+    "passes": 500,
+    "salt": 6.9695335
+  },
+  {
+    "password": "�password3",
+    "passes": 500,
+    "salt": 6.900665
+  },
+  {
+    "password": "�password3",
+    "passes": 500,
+    "salt": 6.9
+  },
+  {
+    "password": "�password3",
+    "passes": 500,
+    "salt": 65452.221
+  },
+  {
+    "password": "�admin3",
+    "passes": 500,
+    "salt": 2.374587415
+  },
+  {
+    "password": "�admin3",
+    "passes": 500,
+    "salt": 9.5451
+  },
+  {
+    "password": "�rokas3",
+    "passes": 500,
+    "salt": 7.55256812
+  },
+  {
+    "password": "�spurga3",
+    "passes": 500,
+    "salt": 1.25412
+  },
+  {
+    "password": "�420693",
+    "passes": 500,
+    "salt": 78.52
+  },
+  {
+    "password": "�694203",
+    "passes": 15000,
+    "salt": 206
+  },
+  {
+    "password": "�gnjlkav0",
+    "passes": 15000,
+    "salt": 2.351541
+  },
+  {
+    "password": "�gaohklfnma3",
+    "passes": 15000,
+    "salt": 9.8522
+  },
+  {
+    "password": "�74552blnka123",
+    "passes": 10000,
+    "salt": 2.38745841254
+  },
+  {
+    "password": "�gsj52av52av3",
+    "passes": 10000,
+    "salt": 3.2541
+  },
+  {
+    "password": "�ba5252gav103",
+    "passes": 15000,
+    "salt": 9.85252
+  },
+  {
+    "password": "�jnflkam3",
+    "passes": 20000,
+    "salt": 6.9
+  },
+  {
+    "password": "�oirqjpk3",
+    "passes": 20000,
+    "salt": 9.84520
+  },
+  {
+    "password": "�46gasv4641fa3",
+    "passes": 20000,
+    "salt": 98.2152
+  },
+  {
+    "password": "�vab5b63as3",
+    "passes": 20000,
+    "salt": 6.9
+  },
+  {
+    "password": "�16ga3yr133",
+    "passes": 20000,
+    "salt": 3.594156
+  },
+  {
+    "password": "�fa48hefa2",
+    "passes": 20000,
+    "salt": 79.95623
+  },
+  {
+    "password": "�4616fsf3",
+    "passes": 20000,
+    "salt": 68749.1
+  },
+  {
+    "password": "�51vadhgsa3",
+    "passes": 20000,
+    "salt": 952.13
+  },
+  {
+    "password": "�finalPasswor2",
+    "passes": 20000,
+    "salt": 6985.2353
+  }
+]
